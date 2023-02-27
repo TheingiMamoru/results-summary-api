@@ -1,36 +1,38 @@
 {
-  "results": [
+  "results":[
     {
-      "id": 1,
+      "id":1,
       "category": "Reaction",
       "score": 80,
-      "icon": "./src/assets/icon-reaction.svg",
-      "bgColor": "bg-red",
-      "textColor": "txt-red"
+      "icon": "./src/assets/images/icon-reaction.svg",
+      "textColor":"txt-red",
+      "bgColor":"bg-light-red"
     },
     {
-      "id": 2,
+      "id":2,
       "category": "Memory",
       "score": 92,
-      "icon": "./src/assets/icon-memory.svg",
-      "bgColor": "bg-yellow",
-      "textColor": "txt-yellow"
+      "icon": "./src/assets/images/icon-memory.svg",
+      "textColor":"txt-yellow",
+      "bgColor":"bg-light-yellow"
     },
     {
-      "id": 3,
+      "id":3,
       "category": "Verbal",
       "score": 61,
-      "icon": "./src/assets/icon-verbal.svg",
-      "bgColor": "bg-green",
-      "textColor": "txt-green"
+      "icon": "./src/assets/images/icon-verbal.svg",
+      "textColor":"txt-green",
+      "bgColor":"bg-light-green"
     },
     {
-      "id": 4,
+      "id":4,
       "category": "Visual",
       "score": 72,
-      "icon": "./src/assets/icon-visual.svg",
-      "bgColor": "bg-blue",
-      "textColor": "txt-blue"
+      "icon": "./src/assets/images/icon-visual.svg",
+      "textColor":"txt-blue",
+      "bgColor":"bg-light-lavender"
     }
   ]
 }
+
+
